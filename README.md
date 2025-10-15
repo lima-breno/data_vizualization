@@ -1,2 +1,2 @@
 # data_vizualization
-Notebooks voltados à criação e interpretação de representações gráficas de dados
+Este repositório reúne estudos e práticas voltados ao aprendizado de visualização de dados, abordando desde a geração de gráficos básicos de comparação, distribuição, composição e relacionamento, até a criação de gráficos interativos e estilização de tabelas. Para isso, foram utilizadas as bibliotecas Matplotlib, Seaborn, Geopandas e Folium, amplamente empregadas na análise e comunicação visual de dados em Python.
